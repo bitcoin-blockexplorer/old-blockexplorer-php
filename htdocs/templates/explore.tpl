@@ -6,7 +6,7 @@
 <script type="text/javascript">
 {literal}
   var _gaq=_gaq || [];
-  _gaq.push(['_setAccount', 'UA-38773634-1']);
+  _gaq.push(['_setAccount', 'UA-XXXXXXXX-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {
